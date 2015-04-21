@@ -30,5 +30,13 @@
         <module name="Facebook" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Amazon" target="1.5" />
+      <module name="ChaseBank" target="1.5" />
+      <module name="Cnn" target="1.5" />
+      <module name="Common" target="1.5" />
+      <module name="Facebook" target="1.5" />
+      <module name="Functional-Automation" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

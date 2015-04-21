@@ -4,7 +4,7 @@
 
     <parameter name = "url" value = "http://www.cnn.com"/>
 
-    <test name = " Cnn Home Page ">
+    <test name = " Facebook Home Page ">
         <classes>
             <class name="FacebooHome"/>
         </classes>
